@@ -9,15 +9,17 @@ In this digital era, the knowledge of programming is essential to bring innovati
 >Flow chart: Diagrammatic way of representing the algorithm.
 >Pseudo-code: Representing the algorithm between a program and normal English.</p>
 
-## VARIABLES AND OPERATORS
+## OPERATORS
 1. Arithmetic operators: Used for performing arithmetic operations
+![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/Arithmetic-operators.jpg)
 
 
 2.Relational operators: Also known as comparison operators, are used to compare values. Result of a relational expression is always either true or false.
+![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/Relational%20operators%20in%20C%2B%2B.png)
 
 
 3.Logical operators are used to combine one or more relational expressions.
-
+![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/maxresdefault%20(1).jpg)
  
 ## PYTHON PROGRAMMING LANGUAGE FAMILARITY
 
