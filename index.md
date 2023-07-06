@@ -1,6 +1,6 @@
 # TIR-101 PYTHON INFOSYS TRAINING 
 
-## IMPORTANCE OF PROGRAMMING
+## IMPORTANCE OF PROGRAMMING IN DIGITAL WORLD
 In this digital era, the knowledge of programming is essential to bring innovation and change. To create value with your own ideas you need know coding. Programming has become basic literacy for the 21st century.
   
 ## ALGORITHM AND REPRESENTATIONS
@@ -11,15 +11,15 @@ In this digital era, the knowledge of programming is essential to bring innovati
 
 ## OPERATORS
 1. Arithmetic operators: Used for performing arithmetic operations
-![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/Arithmetic-operators.jpg)
+![img1](https://github.com/Harleen1kaurH/Pythontut/blob/main/Arithmetic-operators.jpg)
 
 
 2.Relational operators: Also known as comparison operators, are used to compare values. Result of a relational expression is always either true or false.
-![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/Relational%20operators%20in%20C%2B%2B.png)
+![img2](https://github.com/Harleen1kaurH/Pythontut/blob/main/Relational%20operators%20in%20C%2B%2B.png)
 
 
 3.Logical operators are used to combine one or more relational expressions.
-![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/maxresdefault%20(1).jpg)
+![img3](https://github.com/Harleen1kaurH/Pythontut/blob/main/maxresdefault%20(1).jpg)
  
 ## PYTHON PROGRAMMING LANGUAGE FAMILARITY
 
@@ -38,7 +38,7 @@ There are two types of conversions of datatype:
 ## VARIABLES
 A variable is a name that is assigned to a value. It is done so that we can refer to that value at some later point in the program.
 
-![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/Screenshot%20(263).png)
+![img4](https://github.com/Harleen1kaurH/Pythontut/blob/main/Screenshot%20(263).png)
 
 Let us see the usage of values and variables in a program.
 
