@@ -29,6 +29,7 @@ Yahoo Groups, Nokia, CIA
 
 ## DATATYPES AND CONVERSION
 
+![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/Screenshot%20(262).png)
 There are two types of conversions of datatype:
 1. Implicit Conversion: the datatype itself get converted into other datatype without any external interference
 2. Explicit Conversion: the datatype is deliberately converted to other datatype using statements like int(2.0) etc. 
@@ -36,6 +37,8 @@ There are two types of conversions of datatype:
 
 ## VARIABLES
 A variable is a name that is assigned to a value. It is done so that we can refer to that value at some later point in the program.
+
+![img](https://github.com/Harleen1kaurH/Pythontut/blob/main/Screenshot%20(263).png)
 
 Let us see the usage of values and variables in a program.
 
